@@ -1,0 +1,8 @@
+@media only screen and (max-width: 920px) {
+    body {
+        background-color: whitesmoke;
+    }
+    footer {
+        text-align: center;
+    }
+}
